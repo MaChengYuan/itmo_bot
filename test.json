@@ -1,0 +1,284 @@
+{
+  "intents": [
+    {
+      "tag": 1,
+      "patterns": [
+        "What are the requirements to enter the program?",
+        "what do I need to enter the program",
+        "how to enter program"
+      ],
+      "responses": [
+        "To enter the program applicants need to: \u2013 send a portfolio to the international department with their relevant professional (and academic) CV, transcript of records for their Bachelor's degree, and a proof of their English language proficiency; \u2013 pass one of the entrance trials (get a pass mark at the exam): an online theoretical exam on mathematics & programming / Portfolio contest for international applicants / OpenDoors Olympiad for international applicants."
+      ]
+    },
+    {
+      "tag": 2,
+      "patterns": [
+        "Does the program offer any scholarships to international applicants?",
+        "is there scholarships to international applicants?",
+        "how can I get scholarships"
+      ],
+      "responses": [
+        "We don't have our own scholarship funding within the program, but you can apply through the Russian government international scholarship website and choose our program in your application http://studyinrussia.ru/en/actual/scholarships/."
+      ]
+    },
+    {
+      "tag": 3,
+      "patterns": [
+        "Who will be my batchmates at the program?",
+        "Who will help me when I go to Russia",
+        "is there anyone who can help me when I arrive?",
+        "it is difficult for me in the first few days when I arrive"
+      ],
+      "responses": [
+        "You will be studying with Russian-speaking students, as well as international students from all over the world."
+      ]
+    },
+    {
+      "tag": 4,
+      "patterns": [
+        "Are all courses at the program taught in English?",
+        "what language is used at the program?",
+        "English is main language at the program?",
+        "classes are taught in English?"
+      ],
+      "responses": [
+        "Yes, 100% of courses offered at the program are taught in English."
+      ]
+    },
+    {
+      "tag": 5,
+      "patterns": [
+        "What are the research topics for the Master's thesis at the program and how do I choose one?",
+        "How do I choose topic of thesis",
+        "where can I see topic of thesis",
+        "when do I need to choose topic of scientific research"
+      ],
+      "responses": [
+        "The program is taught by the staff of the National Center for Cognitive Research. At the beginning of your studies, you will get the chance to meet the staff of all our labs and choose the research topic you are interested in. You can also offer your own topic."
+      ]
+    },
+    {
+      "tag": 6,
+      "patterns": [
+        "Will I get the chance to do an internship during my studies?",
+        "What kinds of internships are offered for my program?",
+        "is there internship"
+      ],
+      "responses": [
+        "Yes, the most convenient option would be to intern at one of our scientific labs where you will also have a chance to work on your Master's thesis. To know more about how to get internship , please contact the program manager via email: aakarabintseva@itmo.ru (Ms. Alexandra Karabintseva)"
+      ]
+    },
+    {
+      "tag": 7,
+      "patterns": [
+        "What is the format of the exam? What are its basic stages?",
+        "how exam will be like",
+        "how do we do exam",
+        "how exam is organized"
+      ],
+      "responses": [
+        "At the exam you will get 2 exam questions from the list (1st from section 1 and the 2nd from section 2). You will have 60 minutes to write the answers and then you will answer your questions before the examination board. During the interview examiners may ask additional questions on each topic for your examination ticket if needed. The evaluated results are presented to applicants in the next 1-2 working days via email. The exam will be held in Zoom. Please make sure you have a stable internet connection and a working microphone & webcam."
+      ]
+    },
+    {
+      "tag": 8,
+      "patterns": [
+        "What practical tasks can be given in the exam?",
+        "is there practical tasks in the exam",
+        "what kinds of tasks are in the exam"
+      ],
+      "responses": [
+        "The entrance exam to the program 'Big Data and Machine Learning' does not contain practical tasks. The exam is theoretical."
+      ]
+    },
+    {
+      "tag": 9,
+      "patterns": [
+        "What scholarships are proposed by ITMO University? Where can I find the conditions to apply for them?"
+      ],
+      "responses": [
+        "ITMO University does not offer any scholarships. But you can find out information about scholarships of the Russian Government. Please visit the webpage: https://studyinrussia.ru/en/actual/scholarships/."
+      ]
+    },
+    {
+      "tag": 10,
+      "patterns": [
+        "What documents do I  have to submit to my portfolio?",
+        "what kind of documents are needed",
+        "what documents are necessary"
+      ],
+      "responses": [
+        "Your portfolio has to contain the following documents:\n- professional (and academic) CV;\n- bachelor's diploma with transcript of records (in case of studying in the last course transcript of records is enough);\n- proof of English language proficiency (certificate or any type of official document). \nWe recommend adding to your portfolio documents confirming your relevant experience: letters of recommendation , course completion certificates, winner's diplomas,  etc.\nAll documents are submitted in the electronic form (scanned copies)."
+      ]
+    },
+    {
+      "tag": 11,
+      "patterns": [
+        "What alternatives instead of the theoretical exam are offered by ITMO University as entrance trials?",
+        "is there any other way of enrollment",
+        "Can I enroll without exam"
+      ],
+      "responses": [
+        "ITMO University offers two alternative forms of entrance trials:1) Portfolio contest for international applicants. Learn more: https://int.itmo.ru/en/opportunities_for_applicants_masters_portfolio;2) OpenDoors Olympiad for international applicants. Learn more: https://int.itmo.ru/en/opendoors;Please contact the program manager for details via email: aakarabintseva@itmo.ru (Ms. Alexandra Karabintseva)."
+      ]
+    },
+    {
+      "tag": 12,
+      "patterns": [
+        "Where can I get the exam questions?",
+        "is there sample of exam",
+        "I want to see examples of exam"
+      ],
+      "responses": [
+        "The exam questions are available by the link: http://itmo.ru/images/prog_info/5/EXAM_QUESTIONS_BIG_DATA_AND_MACHINE_LEARNING.pdf . You need a PDF-reader installed in your device to open the file containing questions."
+      ]
+    },
+    {
+      "tag": 13,
+      "patterns": [
+        "I would like to know the list of courses of the master\u2019s program \u201cBig data and machine learning\u201d. Where can I find it?",
+        "I want to see the details of courses at this program?",
+        "is there list of classes at this program?"
+      ],
+      "responses": [
+        "The program content is available in the web-page: https://en.itmo.ru/en/viewjep/2/5/Big_Data_and_Machine_Learning.htm."
+      ]
+    },
+    {
+      "tag": 14,
+      "patterns": [
+        "What are the accommodation facilities on campus and out of campus? How much is the rent of rooms, apartments, etc.?",
+        "I want to know details of dormitory",
+        "how much does it cost to live in dormitory"
+      ],
+      "responses": [
+        "Please contact the International Office of ITMO University via email: international@itmo.ru."
+      ]
+    },
+    {
+      "tag": 15,
+      "patterns": [
+        "What are possibilities to adapt foreign students in the environment of ITMO University and Saint Petersburg?",
+        "will it be difficult for me to adapt to life in Russia",
+        "I am afraid that I can not adapt life there"
+      ],
+      "responses": [
+        "ITMO University holds the \u201cBuddy System\u201d to help newly arrived students settle down in a new environment for them. Please visit the web-page to learn details: https://news.itmo.ru/en/blog/345/. In addition you can explore the international part of the site of the service \u201cITMO.Student\u201d: https://student.itmo.ru/en/ ."
+      ]
+    },
+    {
+      "tag": 16,
+      "patterns": [
+        "What is the teaching mode and intensity? Is it possible to study in the remote mode only?",
+        "what is format of class",
+        "are classes online?"
+      ],
+      "responses": [
+        "The program \u201cBig Data and machine learning\u201d contains 30 credits per semester. Generally classes are held on campus. Remote mode can be enabled only on an individual basis (in extreme cases) or local/global conditions including epidemic."
+      ]
+    },
+    {
+      "tag": 17,
+      "patterns": [
+        "Is it possible to work while studying at the program?",
+        "Does this department help students find part-time or summer jobs?",
+        "where can I find a job",
+        "is it okay to find a job when I study",
+        "Is it acceptable to get a job while I'm studying?",
+        "Is it acceptable to find work when I study?",
+        "Is it nice to get a job when I'm a student?"
+      ],
+      "responses": [
+        "Students can be employed full-time during official holidays and break from studies. Some foreign students of the program \u201cBig Data and machine learning\u201d are working at the National Center for Cognitive Research and Research Center \u201cStrong AI in Industry\u201d (https://en.itmo.ru/en/department/499/Research_Center_%E2%80%9CStrong_AI_in_Industry%E2%80%9D.htm)\nFor more details please contact the International Office via email: international@itmo.ru."
+      ]
+    },
+    {
+      "tag": 18,
+      "patterns": [
+        "How can I submit documents for admission?",
+        "How do I submit registration documents?",
+        "How do I submit paperwork for admission?",
+        "where can i submit my document?"
+      ],
+      "responses": [
+        "You need to fill out and submit your application at https://signup.itmo.ru/master\nFor further information please contact the International Office via email: international@itmo.ru."
+      ]
+    },
+    {
+      "tag": 19,
+      "patterns": [
+        "What is the deadline for documents\u2019 submission?",
+        "What is the closing date for submitting documents?",
+        "What is the final date for submission of documents?",
+        "What is the application deadline?",
+        "When is the deadline to submit documentation?"
+      ],
+      "responses": [
+        "August 11, 2023"
+      ]
+    },
+    {
+      "tag": 20,
+      "patterns": [
+        "What are the dates of the exam?",
+        "When is the exam? ",
+        "When will the exam take place? ",
+        "When is the exam scheduled?"
+      ],
+      "responses": [
+        "The exams are being held from March 1st to August 25th 2023. If you want to know the date of the nearest exam, please contact the program manager via email: aakarabintseva@itmo.ru (Ms. Alexandra Karabintseva)"
+      ]
+    },
+    {
+      "tag": 21,
+      "patterns": [
+        "What opportunities are there to build my professional skills on campus?",
+        "What ways can I improve my job skills in college? ",
+        "What ways can I learn and improve my work abilities at this program",
+        "What chances are there to improve my job skills while at college?"
+      ],
+      "responses": [
+        "you will solve applied problems of processing and visualizing big data; master the methods of formalization, structuring, interpretation, and assimilation of knowledge for various tasks; will be able to develop and implement effective algorithms for multivariate analysis of complex data, and also solve actual tasks related to the principles of construction and the basics of organizing the development of modern software solutions for processing big data."
+      ]
+    },
+    {
+      "tag": 22,
+      "patterns": [
+        "What\u2019s required to get an internship?",
+        "What do I need to do to get an internship?",
+        "how to get internship"
+      ],
+      "responses": [
+        "To know more about how to get internship , please contact the program manager via email: aakarabintseva@itmo.ru (Ms. Alexandra Karabintseva)"
+      ]
+    },
+    {
+      "tag": 23,
+      "patterns": [
+        "How many clubs are currently operating in this university?",
+        "How many active clubs are there at this university?",
+        "is there club",
+        "how do I join club in university"
+      ],
+      "responses": [
+        "Please take a looks at this website\nhttps://student.itmo.ru/en/clubs/"
+      ]
+    },
+    {
+      "tag": 24,
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks for the help"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure",
+        "You're most welcome!"
+      ]
+    }
+  ]
+}
