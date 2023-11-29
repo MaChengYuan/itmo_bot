@@ -1,4 +1,4 @@
-# train itmo_bot
+# Train itmo_bot
 # PLEASE BE CAREFUL TO REPLACE <> WITH RELATIVE PATH FROM YOUR LOCAL DEVICE
 1. download test.json
 
@@ -25,12 +25,7 @@ command in terminal :
 python <research_chat_bot.py> -mp <main_QA.json> -p <test.json> -m <saving_model_path>
 
 
-# Must download files to run whole process
 
-BERT_Fine_Tuning_Sentence_Classification.py
 
-research_chat_bot.py
 
-test.json
 
-main_QA.json
