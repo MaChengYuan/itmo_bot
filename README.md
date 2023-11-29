@@ -24,7 +24,10 @@ command in terminal :
 
 python <research_chat_bot.py> -mp <main_QA.json> -p <test.json> -m <saving_model_path>
 
+# to fine this bot in telegram 
+please use link below :
 
+t.me/Big_data_Machine_learning_Bot
 
 
 
