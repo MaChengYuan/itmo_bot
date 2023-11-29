@@ -1,29 +1,28 @@
 # train itmo_bot
-#parameters from model is too big to be uploaded
+# PLEASE BE CAREFUL TO REPLACE <> WITH RELATIVE PATH FROM YOUR LOCAL DEVICE
 1. download test.json
 
-2. train with <bert_transformer.py>
+2. train with <BERT_Fine_Tuning_Sentence_Classification.py>
 
 3. save the parameters and load it in chatbot to acticate
    (if no virtualenv)
    1) pip install virtualenv
+   (if no environment name called itmo_bot)
+   2) virtualenv itmo_bot
    
-   2) virtualenv <any_name>
-   
-   3) source <any_name>/bin/activate
+   3) source itmo_bot/bin/activate
    
    4) pip install -r requirements.txt
 
 command in terminal :
 
-python <bert_transformer.py> -p <test.json> -m <saving_model_path>
-
+python <BERT_Fine_Tuning_Sentence_Classification.py> -p <test.json> -m <saving_model_path>
 
 
 # Load model to itmo_bot
 command in terminal :
 
-python <chat_bot.py> -mp <main_QA.json> -p <test.json> -m <saving_model_path>
+python <research_chat_bot.py> -mp <main_QA.json> -p <test.json> -m <saving_model_path>
 
 
 # Must download files to run whole process
