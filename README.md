@@ -4,8 +4,12 @@
 
 2. train with bert transofmer
 
-3. save the parameters and load it in chatbot to acticate 
+3. save the parameters and load it in chatbot to acticate
+
    pip install virtualenv
+   
    virtualenv <name>
+   
    source <name>/bin/activate
+   
    pip install -r <bert_path>
