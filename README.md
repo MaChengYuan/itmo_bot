@@ -12,7 +12,7 @@
    
    3) source itmo_bot/bin/activate
    
-   4) pip install -r requirements.txt
+   4) pip install -r <requirements.txt>
 
 command in terminal :
 
