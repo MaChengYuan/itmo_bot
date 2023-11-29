@@ -1,0 +1,66 @@
+{
+  "intents": [
+
+        {
+              "tag": "requirement",
+              "patterns": [
+                    "What are the requirements to enter the program?"
+              ],
+              "responses": [
+                    "To enter the program applicants need to: – send a portfolio to the international department with their relevant professional (and academic) CV, transcript of records for their Bachelor's degree, and a proof of their English language proficiency; – pass one of the entrance trials (get a pass mark at the exam): an online theoretical exam on mathematics & programming / Portfolio contest for international applicants / OpenDoors Olympiad for international applicants."
+              ]
+        },
+
+
+{
+              "tag": "scholarships",
+              "patterns": [
+                    "Does the program offer any scholarships to international applicants?"
+              ],
+              "responses": [
+                    "We don't have our own scholarship funding within the program, but you can apply through the Russian government international scholarship website and choose our program in your application (http://studyinrussia.ru/en/actual/scholarships/)."
+              ]
+        },
+
+{
+              "tag": "batchmates",
+              "patterns": [
+                    "Who will be my batchmates at the program?"
+              ],
+              "responses": [
+                    "You will be studying with Russian-speaking students, as well as international students from all over the world."
+              ]
+        },
+
+{
+              "tag": "language",
+              "patterns": [
+                    "Are all courses at the program taught in English?"
+              ],
+              "responses": [
+                    "Yes, 100% of courses offered at the program are taught in English."
+              ]
+},
+
+
+{
+              "tag": "research topics",
+              "patterns": [
+                    "What are the research topics for the Master's thesis at the program and how do I choose one?"
+              ],
+              "responses": [
+                    "The program is taught by the staff of the National Center for Cognitive Research. At the beginning of your studies, you will get the chance to meet the staff of all our labs and choose the research topic you are interested in. You can also offer your own topic."
+              ]
+        },
+
+{
+              "tag": "internship",
+              "patterns": [
+                    "Will I get the chance to do an internship during my studies?"
+              ],
+              "responses": [
+                    "Sure, the most convenient option would be to intern at one of our scientific labs where you will also have a chance to work on your Master's thesis."
+              ]
+        }
+]
+}
