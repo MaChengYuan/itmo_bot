@@ -15,10 +15,12 @@
    pip install -r requirements.txt
 
 command in terminal :
+
 python <bert_path.py> -p <datasets> -m <saving_model_path>
 
 
 
 # load model to itmo_bot
 command in terminal :
+
 python <chat_bot.py> -mp <main_QA.json> -p <test.json> -m <saving_model_path>
