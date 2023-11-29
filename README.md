@@ -20,7 +20,18 @@ python <bert_transformer.py> -p <test.json> -m <saving_model_path>
 
 
 
-# load model to itmo_bot
+# Load model to itmo_bot
 command in terminal :
 
 python <chat_bot.py> -mp <main_QA.json> -p <test.json> -m <saving_model_path>
+
+
+# Must download files to run whole process
+
+BERT_Fine_Tuning_Sentence_Classification.py
+
+research_chat_bot.py
+
+test.json
+
+main_QA.json
