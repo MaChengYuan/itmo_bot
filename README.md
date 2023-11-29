@@ -5,10 +5,10 @@
 2. train with <BERT_Fine_Tuning_Sentence_Classification.py>
 
 3. save the parameters and load it in chatbot to acticate
-   (if no virtualenv)
-   1) pip install virtualenv
-   (if no environment name called itmo_bot)
-   2) virtualenv itmo_bot
+   
+   1) pip install virtualenv (if no virtualenv)
+   
+   2) virtualenv itmo_bot (if no environment name called itmo_bot)
    
    3) source itmo_bot/bin/activate
    
